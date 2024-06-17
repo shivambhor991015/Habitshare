@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "647535488041",
+    "project_id": "habitsharenew",
+    "storage_bucket": "habitsharenew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647535488041:android:aa1e1f44876f5b5b3e8038",
+        "android_client_info": {
+          "package_name": "com.example.habitmonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647535488041-arkv7spn9i2eu8rds2f6dnlkh6p5cbe2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.habitmonitoring",
+            "certificate_hash": "c511d5ee7173e1ed4af2cd504fc6b38091246cb1"
+          }
+        },
+        {
+          "client_id": "647535488041-9gmq3pi9sp97u629gi99ccpja3uvn9ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvlw2PVWcgaaPYoIg9vIRaTJMmKnf7Um0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647535488041-9gmq3pi9sp97u629gi99ccpja3uvn9ir.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "647535488041-jl3vd3qi7if7q8k5nsqm6p5p4pq0m40l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.habitmonitoring"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
